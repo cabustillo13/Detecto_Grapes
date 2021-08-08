@@ -1,0 +1,26 @@
+<annotation>
+	<folder>grapeWhite</folder>
+	<filename>white15.jpg</filename>
+	<path>C:\Users\cabus\Documents\Microsoft\ejemplo_1\dataset\grapeWhite\white15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>100</width>
+		<height>100</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grape_White</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>1</ymin>
+			<xmax>94</xmax>
+			<ymax>100</ymax>
+		</bndbox>
+	</object>
+</annotation>
